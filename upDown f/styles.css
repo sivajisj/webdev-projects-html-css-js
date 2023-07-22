@@ -1,0 +1,86 @@
+body{
+    margin: 0px;
+    padding:0px;
+    /* background-color: aqua; */
+   background:linear-gradient(#ec6f66,#f3a183);
+   background-repeat: no-repeat;
+}
+li{
+    padding:15px;
+    text-shadow:  0px 2px rgb(84, 77, 77);
+    
+ 
+}
+li:hover{
+    letter-spacing: 3px;
+}
+
+#name2{
+    color: black;
+    font-family: cursive;
+}
+#name{
+    color: black;
+    font-family: cursive;
+    margin-right: 300px;
+}
+kbd{
+    margin-right:5px;
+    font-family:cursive;
+}
+.navl{
+ color:rgb(241, 239, 241);
+ font-weight: bolder;
+ font-size:20px;
+}
+a{
+    text-decoration:none;
+
+}
+.title1{
+    font-family: italic;
+ font-style:oblique 50deg;
+ font-weight:normal;
+ color: rgb(45, 78, 119);
+ text-shadow:0 0 1px #065358 ;
+ }
+#context{
+    color: #452e6c;
+    font-size:20px;
+    
+    font-family:Consolas;
+    font-weight: 500;
+}
+.db{
+margin-left: 100px;
+image-rendering:crisp-edges;
+}
+.sjs{
+    margin-top: 90px;
+}
+#learn{
+    margin-left: 100px;
+}
+#author{
+    color: rgb(48, 69, 55);
+    font-weight: 600;
+    margin-left: 320px;
+}
+#upload-section{
+    margin:20px 150px;
+
+}
+#download-section{
+    margin-left: 280px;
+}
+.footer{
+    margin:20px 0px 0px 200px;
+   
+    padding:2px;
+    
+}
+
+
+#na{
+    margin-left:200px;
+}

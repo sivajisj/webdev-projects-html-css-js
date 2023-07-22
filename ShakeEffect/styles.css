@@ -1,0 +1,38 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: rgb(114, 3, 3);
+}
+
+input{
+margin:100px 400px;
+width: 200px;
+height: 20px;
+border: 2px solid green;
+    padding: 10px;
+}
+
+input:hover{
+    background-color: azure;
+    color: blue;
+    
+}
+input:invalid{
+    animation: shake 300ms;
+    color:rgb(4, 20, 12);
+
+}
+@keyframes shake {
+    25%{
+        transform: translate(20px);
+    }
+    50%{
+        transform: translate(-20px);
+    }
+    75%{
+        transform: translate(20px);
+    }
+
+}

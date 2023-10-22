@@ -5,11 +5,7 @@ This repository contains a collection of projects I've built using HTML, CSS, an
 ## Table of Contents
 
 1. [Project 1](#project-1)
-2. [Project 2](#project-2)
-3. [Project 3](#project-3)
-
-
-    <img src="path_to_project_image.jpg" alt="Project Thumbnail" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;">
+    <img src="https://github.com/sivajisj/AgeCalculator/blob/main/agec.png" alt="Project Thumbnail" style="width: 50%; height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;">
     <div style="font-weight: bold; margin-bottom: 10px;">Age calculator</div>
     <a href="https://age-calculatorr-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;">View Project</a>
     <a href="https://github.com/sivajisj/AgeCalculator" style="text-decoration: none; color: #007BFF; margin-right: 10px;">View Code</a>

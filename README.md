@@ -5,10 +5,18 @@ This repository contains a collection of projects I've built using HTML, CSS, an
 ## Table of Contents
 
 1. [Project 1](#project-1)
-    <img src="https://github.com/sivajisj/AgeCalculator/blob/main/agec.png" alt="Project Thumbnail" style="width: 50%; height: 250px; object-fit: cover; border-radius: 8px; margin-bottom: 15px;">
+
     <div style="font-weight: bold; margin-bottom: 10px;">Age calculator</div>
-    <a href="https://age-calculatorr-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;">View Project</a>
-    <a href="https://github.com/sivajisj/AgeCalculator" style="text-decoration: none; color: #007BFF; margin-right: 10px;">View Code</a>
+    <a href="https://age-calculatorr-app.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a> <br>
+    <a href="https://github.com/sivajisj/AgeCalculator" style="text-decoration: none; color: #007BFF; margin-right: 10px;">
+        <button>View Code</button></a>
+
+
+1. [Project 1](#project-1)
+
+    <div style="font-weight: bold; margin-bottom: 10px;">Blackjack</div>
+    <a href="https://blackjack-game-hj.netlify.app" style="text-decoration: none; color: #007BFF; margin-right: 10px;"><button>View Project</button></a><br>
+    <a href="https://github.com/sivajisj/webdev-projects-html-css-js/blackJack" style="text-decoration: none; color: #007BFF; margin-right: 10px;"> <button>View Code</button></a></a>
 
 
 
